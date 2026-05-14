@@ -1,2 +1,2 @@
 Это нужно для треугольника.
-This is for triangle.
+This is need for triangle.
